@@ -1,5 +1,4 @@
-# diminutivo.py
-# coding: utf-8
+# diminutivo1.py
 # Por João Vieira 8-)
 # Simples programa que transforma diminutivos em linguagem formal (como "garotinho")
 # em diminutivos na linguagem coloquial de certos dialetos cearences ("garotim")
