@@ -1,7 +1,8 @@
 # palindrome.py
 # Simple program for detecting if a word is a palindrome, that is,
 # if it can can be read the same way backward or forward.
-# By Joao Vieira, Pedro Muniz, 
+# By Pedro Muniz, Hélio Leonam, Adonis Sousa
+
 def main ():
     print ("This program checks whether any given word is a palindrome, that is, whether it can be read the same way backward or forward!")
     word1 = input("Type the word: ")

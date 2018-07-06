@@ -1,7 +1,7 @@
 # palindromo.py
 # Programa que detecta se duas palavras sao palindromos:
 # se a primeira palavra eh o contrario da segunda
-# Por: 
+# Por: João Vieira
 
 def main ():
     print ("Cheque se a primeira palavra ao contrário é igual à segunda palavra!")

@@ -1,8 +1,9 @@
 # regverbs.py
-# coding: utf-8
-# Program that informs the pronounciation of the final 'ed' of English regular verbs in the past
+# Program that informs the pronunciation of the final 'ed' of English regular verbs in the past
 # Programa que informa a pronúncia do 'ed' final de verbos regulares no passado em língua inglesa
-# por: Adonis Sousa, Brenda Souza, Juliana Gurgel, Pedro Muniz
+# Equipe: Pedro Muniz, Hélio Leonam, Adonis Sousa
+# Colaboração também de Juliana Gurgel
+# coding: utf-8
 
 def main():
     text: str = input("Type a regular verb in the past: ")
@@ -34,8 +35,3 @@ def sequence():
         exit()
 
 sequence()
-
-# Ainda precisamos resolver três problemas principais:
-# 1. Inputs com dois ou menos caracteres (exs: bl, 22, l1, 1) causam um erro.
-# 1. Inputs do tipo "exitoo" são tratados como verbos regulares (ele dá a resposta Id).
-# 2. Como fazer com que o usuário possa sair do programa (minha tentativa de else: exit() não funcionou)

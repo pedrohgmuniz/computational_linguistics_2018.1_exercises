@@ -1,0 +1,15 @@
+# Em alguns dialetos populares do português brasileiro (como em determinados falares nordestinos) ocorrem pronúncias diferenciadas para substantivos masculinos no diminutivo, como "meninim" para "menininho". 
+# Breve pesquisa sobre esse fenômeno, procurando determinar se se trata de um fenômeno lexical ou fonológico.
+
+Podemos dizer que o processo de sufixação é um fenômeno que acontece no nível do léxico e que causa uma interferência direta e significativa no sentido dos itens lexicais que são modificados. Seguindo ideias expressas por Cunha e Cintra (2000), através desse processo os radicais aos quais se ligam os sufixos na formação de novas palavras opera mudanças importantes no significado daqueles. Um dos exemplos de sufixo que pode ser concatenado a partes do léxico é o formador de diminutivo masculinho: o "inho", como em "menino" e "menininho".
+Cunha e Cintra (2008) salientam que a mudança de "inho" para "im" é mais comumente percebida na linguagem oral. Os autores chegam a associar esse fenômeno específico a dialetos que seriam, de certa forma, de um nível inferior a linguagem padrão coloquial culta, mesmo que uma forma possa ser (pelo menos na maioria dos casos) substituída pela outra sem prejuízo de significado (referencial ou de outro modo). Independentemente da questão de haver aqui algum tipo de preconceito linguístico ou não, para eles, a mudança ocorre principalmente em regiões onde há uma tendência a predominância da oralidade em relação a escrita. Parece, de fato, que a alternância entre sufixos como "inho" e "zinho" para "im" (ou, no caso do "zinho", "zim") é um fenômeno que acontece primordialmente no nível fonológico. Parece que apenas raramente tal alternância interferirá no significado, embora isso possa acontecer, como fica evidente para Coelho e Santos (2008, p. 150), segundo os quais em alguns casos:
+"a distinção semântica é sensível, conforme se percebe em (3) e em (4) seguintes:
+(3) Naquela casa afastada, mora um macumbeirinho há anos. 
+(4) Naquela casa afastada, mora um macumbeirozinho há anos. 
+Em (3), o emprego do sufixo –inho parece diminuir a importância do macumbeiro, desqualificando-o para o ofício, fato que não se verifica em (4)."
+O "im", especialmente, parece estar ligado a questões sociais regionais, e o percebemos principalmente na prosódia.
+Propomos pequenos programas que fazem a conversão das formas de diminutivo masculino formal, como "menininho", para as formas de diminutivo informal de certos dialetos, como "meninim". Talvez uma utilidade prática de tal conversor automático fosse facilitar a leitura de um texto escrito em um desses dialetos para um estrangeiro aprendendo português, por exemplo, ou para uma criança na fase de aprendizado da escrita. 
+
+COELHO, S.; SANTOS, A. Uma reflexão acerca do emprego do sufixo diminutivo no português do Brasil. In Revista Alpha, 2008, p. 149-157.
+CUNHA, C.; CINTRA, L. F. L. Breve gramática do português contemporâneo. 2000. 13.ed.
+CUNHA, C.; CINTRA, L. F. L. Nova gramática do português contemporâneo. Rio de Janeiro: Lexikon, 2008. 5.ed.

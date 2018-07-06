@@ -1,10 +1,10 @@
-# diminutivo.py
+# dim2.py
 # Programa que toma uma expressao longa (como uma frase ou um pequeno texto) como input
-# e transforma apenas os diminutivos masculinos do portugues formal (tipo 'cachorrinho')
-# em diminutivos coloquiais (tipo 'cachorrim'), dando a expressao longa com os diminutivos
-# transformados como output
-# Por: Joao Vieira, Pedro Muniz,
-# thanks and good night
+# e transforma apenas os diminutivos masculinos do portugues formal (como 'cachorrinho')
+# em diminutivos coloquiais do falar nordestino (como 'cachorrim'), dando como output
+# dando a expressao longa com os diminutivos transformados.
+# Equipe: Pedro Muniz, Hélio Leonam, Adonis Sousa
+# coding: utf-8
 
 def main():
     print("Insira uma oração e transforme qualquer diminutivo masculino formal em uma versão informal.")
@@ -16,6 +16,7 @@ def main():
         print("Deixe de onda, que nem tem diminutivo masculino na frase.")
 
 main()
+
 
 def sequence():
     question = input("Quer continuar? [sim/não]: ")

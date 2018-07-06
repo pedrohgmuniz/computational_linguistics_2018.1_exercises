@@ -1,6 +1,6 @@
 # coding=utf-8
 # lingua.py
-
+# Por João Vieira
 
 def main():
     print("Uma língua L1 é composta apenas pela vogal A e por todas as consoantes do Português.")

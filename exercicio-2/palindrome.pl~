@@ -8,6 +8,7 @@
 % The query must take the form: palindrome(anyword). The output will
 % be True if the word is a palindrome and False if it is not.
 
+
 accRev([Cab|Rab], A, R) :-
     accRev(Rab,[Cab|A], R).
 accRev([], A, A).
