@@ -1,4 +1,4 @@
-<p>*English below</p>
+<p><em>English below</em></p>
 
 <p>Exercicios da disciplina de Linguistica Computacional (nivel de mestrado/doutorado) no departamento de Linguistica da Universidade Federal do Ceara (UFC). Professor: Leonel Figueiredo de Alencar. Semestre 2018.1</p>
 
